@@ -1,1 +1,1 @@
-the alphabet in lowercase, followed by a new line
+all single digit numbers of base 10 starting from 0, followed by a new line
