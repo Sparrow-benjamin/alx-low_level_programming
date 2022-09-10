@@ -1,1 +1,1 @@
-Positive anything,negative nothing
+Variables, if, else, while
