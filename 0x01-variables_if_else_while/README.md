@@ -1,0 +1,1 @@
+Positive anything,negative nothing
