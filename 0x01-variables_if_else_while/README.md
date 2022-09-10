@@ -1,1 +1,1 @@
- a program that prints all possible combinations of two two-digit numbers
+print the last digit of the number stored in the variable n
