@@ -5,14 +5,14 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void) 
+int main(void)
 {
-char c, e = 'e', q = 'q';	
+char c, e = 'e', q = 'q';
 for (c = 'a'; c <= 'z'; ++c)
 {
 if (c != e && c != q)
-putchar(c); 
+putchar(c);
 }
 putchar('\n');
-return (0); 
+return (0);
 }
