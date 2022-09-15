@@ -1,1 +1,1 @@
-a program that finds and prints the sum of the even-valued terms, followed by a new line
+a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line
