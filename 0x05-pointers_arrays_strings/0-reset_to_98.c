@@ -2,13 +2,13 @@
 #include <stdio.h>
 
 /**
- * reset_to_98 - updates pointer value
- *
- * @n:  pointer used
- *
- * return: always 0
- */
+* reset_to_98 - updates the value it points to to 98
+*
+* @n:  pointer used
+*
+* return: always 0
+*/
 void reset_to_98(int *n)
 {
-  *n = 98;
+*n = 98;
 }
