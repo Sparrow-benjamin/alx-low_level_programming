@@ -30,7 +30,7 @@ printf("\n");
 *
 * Return: Always 0.
 */
-int main()
+int main(void)
 {
 int len = 14;
 int num = 1;
