@@ -1,6 +1,6 @@
 #include "main.h"
-/**
 
+/**
 * rev_string - check the code.
 * @s: an input string.
 * Return: nothing.
