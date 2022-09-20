@@ -8,8 +8,7 @@
 * @n: an input integer.
 * Return: nothing.
 */
-void random_valid_passwords(int len, int num)
-{
+void random_valid_passwords(int len, int num){
 int temp;
 srand((unsigned int)(time(0)));
 while (num--)
