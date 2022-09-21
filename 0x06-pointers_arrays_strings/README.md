@@ -1,1 +1,1 @@
-a function that compares two strings.
+a function that prints an integer.
