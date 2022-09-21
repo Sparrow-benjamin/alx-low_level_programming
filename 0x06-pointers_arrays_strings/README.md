@@ -1,1 +1,1 @@
-a function that encodes a string using rot13.
+a function that compares two strings.
