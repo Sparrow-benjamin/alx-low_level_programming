@@ -1,1 +1,1 @@
-a function that prints an integer.
+a function that prints a buffer.
