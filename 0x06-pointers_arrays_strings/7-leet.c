@@ -1,23 +1,22 @@
 #include "main.h"
-
 /**
-* leet - encodes a string into 1337
-* @s: string to encode
+* print_number - prints an integer
+* @n:.input integer parameter
 *
-* Return: address of s
+*Return: nothing
 */
-char *leet(char *s)
+
+void print_number(int n)
 {
-int i, j;
-char a[] = "aAeEoOtTlL";
-char b[] = "4433007711";
-for (i = 0; *(s + i); i++)
+unsigned int i = n;
+if (n < 0)
 {
-for (j = 0; j <= 9; j++)
-{
-if (a[j] == *(s + i))
-*(s + i) = b[j];
+_putchar(45);
+i = -i;
 }
+if (i / 10)
+{
+print_number(i / 10);
 }
-return (s);
+_putchar(i % 10 + '0');
 }
