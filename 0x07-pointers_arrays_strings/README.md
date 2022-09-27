@@ -1,1 +1,1 @@
-a function that searches a string for any of a set of bytes.
+a function that locates a substring.
