@@ -44,7 +44,7 @@ iterate_wild(wildstr);
 * @str: The string to be matched.
 * @postfix: The postfix.
 */
-char *postfix_match(char *str, char *postfix)
+char *postfix_match(char *str, char *postfix_match)
 {
 int str_len = strlen_no_wilds(str) - 1;
 int postfix_len = strlen_no_wilds(postfix) - 1;
