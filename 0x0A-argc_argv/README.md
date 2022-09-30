@@ -1,1 +1,1 @@
- a program that multiplies two numbers.
+a program that adds positive numbers.
