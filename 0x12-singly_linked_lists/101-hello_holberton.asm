@@ -9,4 +9,3 @@ mov rax, 0
 ret
 format:
 db "Hello, ALX", 10, 0
-	
