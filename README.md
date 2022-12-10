@@ -1,3 +1,1 @@
-0x09. C - Static libraries
-
-
+0x17. C - Doubly linked lists
